@@ -1,0 +1,32 @@
+body {
+  background-image: url("/images/images.jpeg");
+  background-size: cover; 
+  background-position: center; 
+}
+
+#stagePageHeading {
+  height: 30vh;
+}
+#stagePageHeading h1 {
+  font-size: 60px;
+  margin-bottom: 0;
+  margin-top: 1px;
+}
+
+
+#stagePagebutton {
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  margin-top: 105px;
+}
+#stagePagebutton button {
+  width: 12%;
+  height: 18%;
+  font-size: 20px;
+  border-radius: 50px;
+  background-color: #E8576B;
+  color: white;
+  border: none;
+}
